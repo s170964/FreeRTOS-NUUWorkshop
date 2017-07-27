@@ -8,3 +8,6 @@ STM32F4 FreeRTOS example
    1. [Slides - Queue](https://www.slideshare.net/ssuser7bffc6/free-rtos-workshop-2-nuu)
 1. [lab3](Lab3_SoftwareTimer/) : [freeRTOS workshop @NUU 讀書會 #3]
    1. [Slides - Software Timer](https://www.slideshare.net/ssuser7bffc6/free-rtos-workshop3nuu)
+1. [lab4] : [freeRTOS workshop @NUU 讀書會 #4]
+   1. [Slides - Interupt Management](https://www.slideshare.net/ssuser7bffc6/free-rtos-workshop4nuu)
+
