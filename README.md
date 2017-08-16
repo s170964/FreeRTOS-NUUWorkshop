@@ -12,5 +12,7 @@ STM32F4 FreeRTOS example
    1. [Slides - Interupt Management](https://www.slideshare.net/ssuser7bffc6/free-rtos-workshop4nuu)
 1. [lab5] : [freeRTOS workshop @NUU 讀書會 #5]
    1. [Slides - Resource Management](https://www.slideshare.net/ssuser7bffc6/free-rtos-workshop5nuu)
-1. [lab5] : [freeRTOS workshop @NUU 讀書會 #6]
+1. [lab6] : [freeRTOS workshop @NUU 讀書會 #6]
    1. [Slides - Event Groups](https://www.slideshare.net/ssuser7bffc6/free-rtos-workshop6nuu)
+1. [lab7] : [freeRTOS workshop @NUU 讀書會 #7]
+   1. [Slides - Task Notifications](https://www.slideshare.net/ssuser7bffc6/free-rtos-workshop7nuu)
